@@ -5,6 +5,7 @@ This repository contains the dataset and source code for reproducing the deep le
 ## 1. Repository Structure
 Please ensure the downloaded files are organized in the following structure before running the codes:
 
+```
 ├── Image_data/                           # Directory containing the image dataset
 │   ├── train/                            # Training images
 │   ├── validation/                       # Validation images
@@ -14,7 +15,7 @@ Please ensure the downloaded files are organized in the following structure befo
 ├── Classifier_XAI_Analysis.py            # Code for extracting Grad-CAM and Input Gradient Saliency maps
 ├── requirements.txt                      # List of required Python packages
 └── README.md                             # This instruction file
-
+```
 ---
 
 ## 2. Environment Setup
