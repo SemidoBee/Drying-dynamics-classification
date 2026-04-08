@@ -1,4 +1,4 @@
-# Physics-Informed Deep Learning for Drying Dynamics Classification
+# Physics-Augmented Deep Learning for Drying Dynamics Classification
 
 This repository contains the dataset and source code for reproducing the deep learning models, computational efficiency evaluation, and Explainable AI (XAI) analysis presented in our Nature Communications submission.
 
