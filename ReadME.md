@@ -1,4 +1,4 @@
-# Physics-Augmented Deep Learning for Drying Dynamics Classification
+# Measurement-informed Deep Learning for Real-time Monitoring of Hydrodynamic Drying Dynamics in Inkjet-printed Display Pixels via Low-resolution Imaging
 
 This repository contains the dataset and source code for reproducing the deep learning models, computational efficiency evaluation, and Explainable AI (XAI) analysis presented in our small methods submission.
 
