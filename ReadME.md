@@ -1,7 +1,6 @@
 # Measurement-Informed Deep Learning for Drying Dynamics Classification
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20694590.svg)](https://doi.org/10.5281/zenodo.20694590)
-*(https://doi.org/10.5281/zenodo.20694590)*
 
 This repository contains the official dataset and source code for the deep learning models, computational efficiency evaluation, and Explainable AI (XAI) analysis presented in our paper, recently accepted for publication in ***ACS Applied Materials & Interfaces***.
 
